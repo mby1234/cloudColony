@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934d15c8-90a8-4485-9164-41651dfa53e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="LoginCon.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            <state relative-caret-position="696">
+              <caret line="69" column="29" lean-forward="true" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -689,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state relative-caret-position="696">
+          <caret line="69" column="29" lean-forward="true" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
