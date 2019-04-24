@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934d15c8-90a8-4485-9164-41651dfa53e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-model/src/main/java/com/cloudcolony/ordermodel/controller/LoginCon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
